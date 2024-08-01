@@ -40,9 +40,9 @@ IoT 개발자 빅데이터 분석 및 인공지능 학습 리포지토리
 
 - 빅데이터 학습
     - 실습자료, 파이썬 기본(pass), 빅데이터 분석 기초학습 
-    - [NoteBook](넘파이)
-    - 판다스
-    - 맷플롭립
+    - [넘파이](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
 
 
 ## 2일차
