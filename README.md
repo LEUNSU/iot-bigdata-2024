@@ -62,6 +62,14 @@ IoT 개발자 빅데이터 분석 및 인공지능 학습 리포지토리
     - 리포지토리 10개 정도 리스트업 또는 리포지토리 검색해서 진행
 
 - 빅데이터 실습
-    -
+    - 스타벅스 입지 분석(계속)
+    - 지난주 최종으로 만든 데이터 csv파일 다시 로드
+    - [스타벅스입지분석](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day03/dba07_starbucks_analysis.ipynb)
+
+- 빅데이터 활용방안
+    - [자바2024](https://github.com/hugoMGSung/bigdata-analysis-2024)
+    - [강사나머지교안](https://github.com/hugoMGSung/works-need-it-data-analysis)
+    - [멀티캠퍼스서울2021](https://github.com/ckiekim/DataAnalysis-2021-3)
+
 
 ## 4일차
