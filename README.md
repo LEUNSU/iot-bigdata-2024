@@ -90,7 +90,13 @@ IoT 개발자 빅데이터 분석 및 인공지능 학습 리포지토리
 
 ## 4일차
 - 머신러닝, 딥러닝
-    - [개념]()
+    - 인공지능 개념 학습
+    - 파이토치 기본 설명과 CPU/GPU 라이브러리 설치
+    - [개념](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day04/dba08_ml_dl_concept.ipynb)
+    - [파이토치개요및설치](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day04/dba09_pytorch_start.ipynb)
+
+
+## 5일차
+- 머신러닝, 딥러닝
     - [파이토치기본]()
     - [회귀분석]()
-    - [...]()
