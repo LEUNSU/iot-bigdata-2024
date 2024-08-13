@@ -106,3 +106,20 @@ IoT 개발자 빅데이터 분석 및 인공지능 학습 리포지토리
 ## 6일차 
 - 머신러닝, 딥러닝
     - 타이타닉 생존자 예측(계속)
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
+    - [ML회귀분석](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day05/dba11_linear_regression.ipynb)
+
+## 7일차
+- 머신러닝, 딥러닝
+    - CNN(Convolutional NN)
+    - [이미지분류](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day07/dba12_image_class.ipynb)
+
+## 8일차
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, YOLOv8
+    - [YOLOv8]()
+
+## 9일차
+- 머신러닝, 딥러닝 개인클로닝
+    - 예제 리포지토리, Cloning
