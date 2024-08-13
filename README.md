@@ -118,7 +118,7 @@ IoT 개발자 빅데이터 분석 및 인공지능 학습 리포지토리
 - 머신러닝, 딥러닝
     - 객체탐지(Object Detection)
     - OpenCV, YOLOv8
-    - [YOLOv8]()
+    - [YOLOv8](https://github.com/LEUNSU/iot-bigdata-2024/blob/main/day08/dba13_object_detection.ipynb)
 
 ## 9일차
 - 머신러닝, 딥러닝 개인클로닝
